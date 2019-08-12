@@ -45,7 +45,7 @@ export default class App {
             {
                 definition : {
                     info : {
-                        title : "Mutant Challenge API" ,
+                        title : "Simple API" ,
                         version : "1.0"
                     } 
                 }
